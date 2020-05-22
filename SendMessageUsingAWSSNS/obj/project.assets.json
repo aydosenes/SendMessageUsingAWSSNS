@@ -1,0 +1,185 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AWSSDK.Core/3.3.107": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.3.101.172": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.107, 3.4.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSSDK.Core/3.3.107": {
+      "sha512": "GZR+dR3dvaZS86TG7GVpYo+EWXdn7n3Jiskoy32fO3UxDdGVEhEzx4B5+uKJCz9IFnkIXWcQMk4TM0/HjfKcdQ==",
+      "type": "package",
+      "path": "awssdk.core/3.3.107",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.3.107.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/MonoAndroid10/AWSSDK.Core.XML",
+        "lib/MonoAndroid10/AWSSDK.Core.dll",
+        "lib/MonoAndroid10/AWSSDK.Core.pdb",
+        "lib/MonoTouch10/AWSSDK.Core.XML",
+        "lib/MonoTouch10/AWSSDK.Core.dll",
+        "lib/Xamarin.Mac20/AWSSDK.Core.XML",
+        "lib/Xamarin.Mac20/AWSSDK.Core.dll",
+        "lib/Xamarin.iOS10/AWSSDK.Core.XML",
+        "lib/Xamarin.iOS10/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netstandard1.3/AWSSDK.Core.dll",
+        "lib/netstandard1.3/AWSSDK.Core.pdb",
+        "lib/netstandard1.3/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.pdb",
+        "lib/uap/AWSSDK.Core.XML",
+        "lib/uap/AWSSDK.Core.dll",
+        "lib/uap/AWSSDK.Core.pdb",
+        "lib/win8/AWSSDK.Core.XML",
+        "lib/win8/AWSSDK.Core.dll",
+        "lib/win8/AWSSDK.Core.pdb",
+        "lib/wp8/AWSSDK.Core.XML",
+        "lib/wp8/AWSSDK.Core.dll",
+        "lib/wp8/AWSSDK.Core.pdb",
+        "lib/wpa81/AWSSDK.Core.XML",
+        "lib/wpa81/AWSSDK.Core.dll",
+        "lib/wpa81/AWSSDK.Core.pdb",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.SimpleNotificationService/3.3.101.172": {
+      "sha512": "mGDcSGXAIT1hT4GTXKNf1d3OKEpF6fziQ2cXPtbxeeiSe4Q/2GZJUXm+RwtYjNby9jFap3e6osITdxRyxcbEgQ==",
+      "type": "package",
+      "path": "awssdk.simplenotificationservice/3.3.101.172",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.SimpleNotificationService.CodeAnalysis.dll",
+        "awssdk.simplenotificationservice.3.3.101.172.nupkg.sha512",
+        "awssdk.simplenotificationservice.nuspec",
+        "lib/MonoAndroid10/AWSSDK.SimpleNotificationService.XML",
+        "lib/MonoAndroid10/AWSSDK.SimpleNotificationService.dll",
+        "lib/MonoTouch10/AWSSDK.SimpleNotificationService.XML",
+        "lib/MonoTouch10/AWSSDK.SimpleNotificationService.dll",
+        "lib/MonoTouch10/AWSSDK.SimpleNotificationService.pdb",
+        "lib/Xamarin.iOS10/AWSSDK.SimpleNotificationService.XML",
+        "lib/Xamarin.iOS10/AWSSDK.SimpleNotificationService.dll",
+        "lib/net35/AWSSDK.SimpleNotificationService.dll",
+        "lib/net35/AWSSDK.SimpleNotificationService.pdb",
+        "lib/net35/AWSSDK.SimpleNotificationService.xml",
+        "lib/net45/AWSSDK.SimpleNotificationService.dll",
+        "lib/net45/AWSSDK.SimpleNotificationService.pdb",
+        "lib/net45/AWSSDK.SimpleNotificationService.xml",
+        "lib/netstandard1.3/AWSSDK.SimpleNotificationService.dll",
+        "lib/netstandard1.3/AWSSDK.SimpleNotificationService.pdb",
+        "lib/netstandard1.3/AWSSDK.SimpleNotificationService.xml",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.pdb",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleNotificationService.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleNotificationService.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleNotificationService.pdb",
+        "lib/uap/AWSSDK.SimpleNotificationService.XML",
+        "lib/uap/AWSSDK.SimpleNotificationService.dll",
+        "lib/uap/AWSSDK.SimpleNotificationService.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AWSSDK.SimpleNotificationService >= 3.3.101.172"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aydos\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aydos\\Desktop\\repositories\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS.csproj",
+      "projectName": "SendMessageUsingAWSSNS",
+      "projectPath": "C:\\Users\\aydos\\Desktop\\repositories\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS.csproj",
+      "packagesPath": "C:\\Users\\aydos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aydos\\Desktop\\repositories\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aydos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "AWSSDK.SimpleNotificationService": {
+            "target": "Package",
+            "version": "[3.3.101.172, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

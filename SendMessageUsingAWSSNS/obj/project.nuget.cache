@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "91DIBl77O3ot5o67TB2CpFJ3lkrzZWRgXyCPAQhs5fC3TOA1WAsYfm5mgzgFWzRux53db2+Co34ScM6D4X3bJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aydos\\Desktop\\repositories\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS\\SendMessageUsingAWSSNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aydos\\.nuget\\packages\\awssdk.core\\3.3.107\\awssdk.core.3.3.107.nupkg.sha512",
+    "C:\\Users\\aydos\\.nuget\\packages\\awssdk.simplenotificationservice\\3.3.101.172\\awssdk.simplenotificationservice.3.3.101.172.nupkg.sha512"
+  ],
+  "logs": []
+}

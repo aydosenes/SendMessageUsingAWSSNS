@@ -1,0 +1,16 @@
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.exe
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.csprojAssemblyReference.cache
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.AssemblyInfoInputs.cache
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.AssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.deps.json
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.runtimeconfig.json
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.runtimeconfig.dev.json
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.dll
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.pdb
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\bin\Debug\netcoreapp3.1\AWSSDK.SimpleNotificationService.dll
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.csproj.CoreCompileInputs.cache
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.csproj.CopyComplete
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.dll
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.pdb
+C:\Users\aydos\Desktop\repositories\SendMessageUsingAWSSNS\SendMessageUsingAWSSNS\obj\Debug\netcoreapp3.1\SendMessageUsingAWSSNS.genruntimeconfig.cache
